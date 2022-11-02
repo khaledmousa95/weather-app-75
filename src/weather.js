@@ -10,4 +10,4 @@ function weather() {
   );
 }
 
-export default weather;
+export default weather
